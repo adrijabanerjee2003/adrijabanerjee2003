@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrija Banerjee</h1>
 <h3 align="center">Building Tomorrow's Technology Today: Innovation in Code</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartcoding.co.in%2Fpage%2F189%2F%3Fpaged%3D189&psig=AOvVaw0zyMCvG1F217f_x7EcKTdS&ust=1718031269898000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiEya7jzoYDFQAAAAAdAAAAABAR">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrijabanerjee2003&label=Profile%20views&color=0e75b6&style=flat" alt="adrijabanerjee2003" /> </p>
